@@ -241,7 +241,7 @@ console.log( out );
 ### Usage
 
 ```c
-#include "stdlib/blas/ext/base/scartesianproduct.h"
+#include "stdlib/blas/ext/base/scartesian_product.h"
 ```
 
 <!--lint disable maximum-heading-length-->
@@ -332,7 +332,7 @@ void stdlib_strided_scartesian_product_ndarray( const CBLAS_INT M, const CBLAS_I
 ### Examples
 
 ```c
-#include "stdlib/blas/ext/base/scartesianproduct.h"
+#include "stdlib/blas/ext/base/scartesian_product.h"
 #include "stdlib/blas/base/shared.h"
 #include <stdio.h>
 
