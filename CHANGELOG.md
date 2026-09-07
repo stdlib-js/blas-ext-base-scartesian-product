@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-11)
+## Unreleased (2026-09-07)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`fb1e981`](https://github.com/stdlib-js/stdlib/commit/fb1e9810ab5dc0919e9833ec9ccd63b373a79eef) - **refactor:** add support for enums in `blas/ext/base/*cartesian-product` [(#15065)](https://github.com/stdlib-js/stdlib/pull/15065) _(by Kaustubh Patange)_
 -   [`430fdea`](https://github.com/stdlib-js/stdlib/commit/430fdea947428af11c0e75dc6f6a0bd3cbd13e88) - **chore:** clean-up [(#13805)](https://github.com/stdlib-js/stdlib/pull/13805) _(by Philipp Burckhardt)_
 -   [`f2640a2`](https://github.com/stdlib-js/stdlib/commit/f2640a213240945e2e06593eed4e3fb031e95db5) - **docs:** add missing Oxford comma _(by Athan Reines)_
 -   [`9dd3f73`](https://github.com/stdlib-js/stdlib/commit/9dd3f73544d43392c6ff8d5f290e0e466ac0c812) - **fix:** rename header files to align with project conventions _(by Athan Reines)_
@@ -47,9 +48,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Kaustubh Patange
 -   Muhammad Haris
 -   Philipp Burckhardt
 
